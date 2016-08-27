@@ -1,10 +1,11 @@
 {
-  "name": "nepali-date-picker",
+  "name": "datepicker-nepali",
   "version": "1.1.1",
-  "main": "./dist/jquery.nepaliDatePicker.js",
-  "description": "Date Picker For Nepali Date",
+  "main": "jquery.nepaliDatePicker.js",
+  "description": "Nepali date picker",
   "keywords": [
-    "Date Picker Nepali"
+    "nepaliDatePicker",
+    "date picker"
   ],
   "maintainers": [
     {

@@ -1,14 +1,10 @@
-# Nepali-Date-Picker
+# Nepali Date Picker
 
 ### Install:
-For npm installation : 
-``` bash
-$ npm install nepali-date-picker --save
-```
 
-For bower installation : 
+Using Bower: 
 ``` bash
-$ bower install nepali-date-picker --save`
+$ bower install datepicker-nepali --save`
 ```
 
 ### How do I use it?
@@ -33,7 +29,7 @@ $(".date-picker").nepaliDatePicker({
   });
 ```
 
-## For deplopers only
+## Buliding from source
 
 ### Installing dependancies
 ``` bash
