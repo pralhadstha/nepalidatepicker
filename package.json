@@ -1,19 +1,29 @@
 {
   "name": "nepali-date-picker",
   "version": "1.1.1",
-  "authors": [
-    "Sanish Maharjan <sanishmaharjan@lftechnology.com>"
-  ],
-  "main": "jquery.nepaliDatePicker.js",
-  "description": "Nepali date picker",
+  "main": "./dist/jquery.nepaliDatePicker.js",
+  "description": "Date Picker For Nepali Date",
   "keywords": [
-    "nepaliDatePicker",
-    "date picker"
+    "Date Picker Nepali"
+  ],
+  "maintainers": [
+    {
+      "name": "PaladiN Shrestha",
+      "email": "pralhad.shrestha05@gmail.com",
+      "web": "http://pralhadshrestha.com.np"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "PaladiN Shrestha",
+      "email": "pralhad.shrestha05@gmail.com",
+      "web": "http://pralhadshrestha.com.np"
+    }
   ],
   "ignore": [
     "bower_components"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "grunt": ">=1.0.1",
     "grunt-auto-install": "~0.2.4",
@@ -30,10 +40,10 @@
     "load-grunt-config": "^0.19.2",
     "time-grunt": "^1.3.0"
   },
-  "homepage": "https://github.com/leapfrogtechnology/Nepali-Date-Picker",
+  "homepage": "https://github.com/teddywest32/nepalidatepicker",
   "repository": {
     "type": "git",
-    "url": "git@github.com:leapfrogtechnology/Nepali-Date-Picker.git"
+    "url": "git@github.com:teddywest32/nepalidatepicker.git"
   },
   "devDependencies": {
     "grunt-contrib-jasmine": "^1.0.3",

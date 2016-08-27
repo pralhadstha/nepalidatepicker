@@ -5,24 +5,25 @@
     "Sanish Maharjan <sanishmaharjan@lftechnology.com>"
   ],
   "main": [
-    "jquery.nepaliDatePicker.js"
+    "dist/nepaliDatePicker.min.css",
+    "dist/jquery.nepaliDatePicker.min.js"
   ],
-  "description": "Nepali date picker",
+  "description": "Date Picker for Nepali Date",
   "keywords": [
-    "nepaliDatePicker",
-    "date picker"
+    "Date Picker Nepali"
   ],
   "ignore": [
-    "bower_components"
+    "bower_components",
+    "node_modules"
   ],
   "license": "MIT",
   "dependencies": {
     "jquery": ">= 1.11.1"
   },
-  "homepage": "https://github.com/leapfrogtechnology/Nepali-Date-Picker",
+  "homepage": "https://github.com/teddywest32/nepalidatepicker",
   "repository": {
     "type": "git",
-    "url": "git@github.com:leapfrogtechnology/Nepali-Date-Picker.git"
+    "url": "git@github.com:teddywest32/nepalidatepicker.git"
   },
   "devDependencies": {
     "jasmine-expect": "~2.0.2"
