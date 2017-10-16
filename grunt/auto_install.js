@@ -1,7 +1,7 @@
 module.exports = {
     install: {
       options: {
-        cwd: '',  //current dir
+        cwd: "",  //current dir
         stderr: true,
         failOnError: false,
         npm: true,
