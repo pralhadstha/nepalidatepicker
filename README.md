@@ -31,7 +31,7 @@ $(".date-picker").nepaliDatePicker({
 
 ## Buliding from source
 
-### Installing dependancies
+### Installing dependencies
 ``` bash
 $ bower install
 
