@@ -1,7 +1,7 @@
 module.exports = function (grunt) {
-    var path = require('path');
-    require('time-grunt')(grunt);
-    require('jit-grunt')(grunt);
+    var path = require("path");
+    require("time-grunt")(grunt);
+    require("jit-grunt")(grunt);
 
     require('load-grunt-config')(grunt, {
         configPath: path.join(process.cwd(), 'grunt'),
