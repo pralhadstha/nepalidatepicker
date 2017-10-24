@@ -3,8 +3,8 @@ module.exports = function (grunt) {
     require("time-grunt")(grunt);
     require("jit-grunt")(grunt);
 
-    require('load-grunt-config')(grunt, {
-        configPath: path.join(process.cwd(), 'grunt'),
+    require("load-grunt-config")(grunt, {
+        configPath: path.join(process.cwd(), "grunt"),
         init: true,
         config: {
             fonts: {
