@@ -8,7 +8,7 @@ module.exports = function (grunt) {
         init: true,
         config: {
             fonts: {
-                extensions: ['eot', 'ttf', 'woff', 'svg'].join(',')
+                extensions: ["eot", "ttf", "woff", "svg"].join(',')
             },
             images: {
                 extensions: ['pngconfigPath', 'jpg', 'jpeg', 'gif', 'webp', 'svg'].join(',')
