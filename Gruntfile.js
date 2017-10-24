@@ -11,7 +11,7 @@ module.exports = function (grunt) {
                 extensions: ["eot", "ttf", "woff", "svg"].join(',')
             },
             images: {
-                extensions: ['pngconfigPath', 'jpg', 'jpeg', 'gif', 'webp', 'svg'].join(',')
+                extensions: ["pngconfigPath", "jpg", "jpeg", "gif", "webp", "svg"].join(',')
             }
         },
         loadGruntTasks: true
